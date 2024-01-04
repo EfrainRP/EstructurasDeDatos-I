@@ -1,0 +1,51 @@
+4232654855456
+Papas
+0.50
+10
+1
+2022
+8
+11
+17
+
+7515151321283
+Chocolate
+0.12
+12
+10
+2012
+10
+13
+8
+
+
+1532486578241
+Manzanas
+0.12
+26
+12
+2021
+14.8
+16.4
+15
+
+1532486578241
+Refresco
+0.45
+26
+5
+2019
+10
+13
+22
+
+Ingrese codigo de barras (13 caracteres maximo): 1234567890123
+Ingrese nombre: Jugo
+Ingrese peso en kg: 1
+Ingrese fecha de entrada
+Ingrese dia: 2
+Ingrese mes: 1
+Ingrese a±o: 2022
+Ingrese precio de mayoreo: $20.50
+Ingrese precio de menudeo: $22.70
+Ingrese existencia actual: 10

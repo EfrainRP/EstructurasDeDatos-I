@@ -1,0 +1,17 @@
+A/B^(C+D)-E*F/G^H
+s
+(A-B)+(C/(D-E^F))/G*H
+s
+((((((A+B)*C)-D)^E)/F)+G)*H
+s
+(A+B)/C(A^B+C)-E^A
+s
+((A+E)^C-E)/(D*A-C)
+s
+A*F+G(E/T^B+U)*E
+s
+(((A*B)^E-B)^B+C*E)*A
+s
+A/B(((C-E*Q)+E*Q)^D)*C
+N
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1643588453 source:e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\fecha.cpp
+	"fecha.h"
+
+1643588453 e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\fecha.h
+	<string>
+
+1643588788 source:e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\main.cpp
+	"menu.h"
+
+1643588788 source:e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\menu.cpp
+	"menu.h"
+
+1643589428 e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\menu.h
+	"fecha.h"
+	"producto.h"
+	"coleccion.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<cctype>
+
+1643588453 source:e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\producto.cpp
+	"producto.h"
+	"fecha.h"
+	<string>
+
+1643588453 e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\producto.h
+	"Fecha.h"
+	<string>
+
+1643588453 source:e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\coleccion.cpp
+	"coleccion.h"
+
+1643591065 e:\documentos pc\udg materias\estructura\a2-abarrotes\abarrotes\coleccion.h
+	"producto.h"
+	"Fecha.h"
+	<string>
+
