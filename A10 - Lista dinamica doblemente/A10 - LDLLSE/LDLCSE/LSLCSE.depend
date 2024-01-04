@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1645408890 source:c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldlcse\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645713138 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldlcse\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldlcse\nombre.h
+	<iostream>
+	<string>
+
+1647354095 source:c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldlcse\main.cpp
+	"Menu.h"
+	<iostream>
+
+1647957058 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldlcse\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1647959901 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldlcse\list.h
+	<string>
+	<exception>
+
+1647957295 source:c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldlcse\menu.cpp
+	"Menu.h"
+
+1645408616 source:c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldlcse\nombre.cpp
+	"nombre.h"
+
+1648352592 source:e:\documentos pc\udg materias\estructura\a10 - lista dinamica doblemente\a10 - ldllse\ldlcse\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645713138 e:\documentos pc\udg materias\estructura\a10 - lista dinamica doblemente\a10 - ldllse\ldlcse\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 e:\documentos pc\udg materias\estructura\a10 - lista dinamica doblemente\a10 - ldllse\ldlcse\nombre.h
+	<iostream>
+	<string>
+
+1647354095 source:e:\documentos pc\udg materias\estructura\a10 - lista dinamica doblemente\a10 - ldllse\ldlcse\main.cpp
+	"Menu.h"
+	<iostream>
+
+1647957058 e:\documentos pc\udg materias\estructura\a10 - lista dinamica doblemente\a10 - ldllse\ldlcse\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1648360229 e:\documentos pc\udg materias\estructura\a10 - lista dinamica doblemente\a10 - ldllse\ldlcse\list.h
+	<string>
+	<exception>
+
+1648410893 source:e:\documentos pc\udg materias\estructura\a10 - lista dinamica doblemente\a10 - ldllse\ldlcse\menu.cpp
+	"Menu.h"
+
+1645408616 source:e:\documentos pc\udg materias\estructura\a10 - lista dinamica doblemente\a10 - ldllse\ldlcse\nombre.cpp
+	"nombre.h"
+

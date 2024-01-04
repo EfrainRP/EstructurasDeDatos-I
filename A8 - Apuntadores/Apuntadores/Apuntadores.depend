@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1645408890 source:c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645713138 c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\nombre.h
+	<iostream>
+	<string>
+
+1644894866 source:c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\main.cpp
+	"Menu.h"
+	<iostream>
+
+1645341478 c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1646923615 c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\listexception.h
+	<exception>
+	<string>
+
+1645408784 source:c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\menu.cpp
+	"Menu.h"
+
+1645408616 source:c:\users\efrai\onedrive\documentos\estructura\a8 - apuntadores\apuntadores\nombre.cpp
+	"nombre.h"
+
+1647191501 source:e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1647191501 e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1647191501 e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\nombre.h
+	<iostream>
+	<string>
+
+1647191501 source:e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\menu.cpp
+	"Menu.h"
+
+1647197107 e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1647199614 e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\listexception.h
+	<exception>
+	<string>
+
+1647191501 source:e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\nombre.cpp
+	"nombre.h"
+
+1647195673 source:e:\documentos pc\udg materias\estructura\a8 - apuntadores\apuntadores\main.cpp
+	"Menu.h"
+	<iostream>
+

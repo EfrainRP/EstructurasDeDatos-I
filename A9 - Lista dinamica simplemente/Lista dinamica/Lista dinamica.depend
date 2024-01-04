@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1647827851 source:e:\documentos pc\udg materias\estructura\a9 - lista dinamica\lista dinamica\cancion.cpp
+	"Cancion.h"
+
+1647827851 e:\documentos pc\udg materias\estructura\a9 - lista dinamica\lista dinamica\cancion.h
+	"nombre.h"
+	<string>
+
+1647827851 e:\documentos pc\udg materias\estructura\a9 - lista dinamica\lista dinamica\nombre.h
+	<string>
+
+1647827851 source:e:\documentos pc\udg materias\estructura\a9 - lista dinamica\lista dinamica\nombre.cpp
+	"nombre.h"
+
+1647714630 source:e:\documentos pc\udg materias\estructura\a9 - lista dinamica\lista dinamica\main.cpp
+	"Menu.h"
+	<iostream>
+
+1647827318 e:\documentos pc\udg materias\estructura\a9 - lista dinamica\lista dinamica\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+
+1647826621 e:\documentos pc\udg materias\estructura\a9 - lista dinamica\lista dinamica\list.h
+	<string>
+	<exception>
+
+1647830618 source:e:\documentos pc\udg materias\estructura\a9 - lista dinamica\lista dinamica\menu.cpp
+	"Menu.h"
+

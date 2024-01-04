@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1645408890 source:c:\users\efrai\onedrive\documentos\estructura\a9 - lsllse\lsllse - p\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645713138 c:\users\efrai\onedrive\documentos\estructura\a9 - lsllse\lsllse - p\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 c:\users\efrai\onedrive\documentos\estructura\a9 - lsllse\lsllse - p\nombre.h
+	<iostream>
+	<string>
+
+1645408784 source:c:\users\efrai\onedrive\documentos\estructura\a9 - lsllse\lsllse - p\menu.cpp
+	"Menu.h"
+
+1645341478 c:\users\efrai\onedrive\documentos\estructura\a9 - lsllse\lsllse - p\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1647355146 c:\users\efrai\onedrive\documentos\estructura\a9 - lsllse\lsllse - p\list.h
+	<string>
+	"ListException.h"
+
+1644196044 c:\users\efrai\onedrive\documentos\estructura\a9 - lsllse\lsllse - p\listexception.h
+	<exception>
+	<string>
+
+1645408616 source:c:\users\efrai\onedrive\documentos\estructura\a9 - lsllse\lsllse - p\nombre.cpp
+	"nombre.h"
+
+1645408890 source:c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645713138 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\nombre.h
+	<iostream>
+	<string>
+
+1647957295 source:c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\menu.cpp
+	"Menu.h"
+
+1647957058 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1647957423 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\list.h
+	<string>
+	"ListException.h"
+	<string>
+	<exception>
+
+1644196044 c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\listexception.h
+	<exception>
+	<string>
+
+1645408616 source:c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\nombre.cpp
+	"nombre.h"
+
+1647354095 source:c:\users\efrai\onedrive\documentos\estructura\a10 - ldllse\ldllse\main.cpp
+	"Menu.h"
+	<iostream>
+
