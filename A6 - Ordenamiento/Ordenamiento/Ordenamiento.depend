@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1645408890 source:c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645713138 c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\nombre.h
+	<iostream>
+	<string>
+
+1644894866 source:c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\main.cpp
+	"Menu.h"
+	<iostream>
+
+1645341478 c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1645747704 c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\listexception.h
+	<exception>
+	<string>
+
+1645408784 source:c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\menu.cpp
+	"Menu.h"
+
+1645408616 source:c:\users\efrai\onedrive\documentos\estructura\a6 - ordenamiento\ordenamiento\nombre.cpp
+	"nombre.h"
+
+1646014870 source:e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645923564 e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\nombre.h
+	<iostream>
+	<string>
+
+1644894866 source:e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\main.cpp
+	"Menu.h"
+	<iostream>
+
+1645948208 e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1646016018 e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\listexception.h
+	<exception>
+	<string>
+
+1646016482 source:e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\menu.cpp
+	"Menu.h"
+
+1645408616 source:e:\documentos pc\udg materias\estructura\a6 - ordenamiento\ordenamiento\nombre.cpp
+	"nombre.h"
+
+1645925112 source:f:\ordenamiento\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645923564 f:\ordenamiento\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 f:\ordenamiento\nombre.h
+	<iostream>
+	<string>
+
+1644894866 source:f:\ordenamiento\main.cpp
+	"Menu.h"
+	<iostream>
+
+1645892948 f:\ordenamiento\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1645923564 f:\ordenamiento\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 f:\ordenamiento\listexception.h
+	<exception>
+	<string>
+
+1645926656 source:f:\ordenamiento\menu.cpp
+	"Menu.h"
+
+1645408616 source:f:\ordenamiento\nombre.cpp
+	"nombre.h"
+
+1646014870 source:f:\ordenamientov\ordenamiento\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645923564 f:\ordenamientov\ordenamiento\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645397230 f:\ordenamientov\ordenamiento\nombre.h
+	<iostream>
+	<string>
+
+1644894866 source:f:\ordenamientov\ordenamiento\main.cpp
+	"Menu.h"
+	<iostream>
+
+1645948208 f:\ordenamientov\ordenamiento\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1646016018 f:\ordenamientov\ordenamiento\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 f:\ordenamientov\ordenamiento\listexception.h
+	<exception>
+	<string>
+
+1645408616 source:f:\ordenamientov\ordenamiento\nombre.cpp
+	"nombre.h"
+
+1646016482 source:f:\ordenamientov\ordenamiento\menu.cpp
+	"Menu.h"
+

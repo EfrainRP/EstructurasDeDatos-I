@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1644196042 source:e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\cancion.cpp
+	"Cancion.h"
+
+1644899189 e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\cancion.h
+	"nombre.h"
+	<string>
+
+1644196042 e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\nombre.h
+	<string>
+
+1644894865 source:e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\main.cpp
+	"Menu.h"
+	<iostream>
+
+1644894929 e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+
+1644895493 source:e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\menu.cpp
+	"Menu.h"
+
+1644196042 source:e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\nombre.cpp
+	"nombre.h"
+
+1644895786 e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\list.h
+	<string>
+	"ListException.h"
+
+1644196042 e:\documentos pc\udg materias\estructura\a5 - busqueda\busqueda\listexception.h
+	<exception>
+	<string>
+
+1645108330 source:c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\cancion.cpp
+	"Cancion.h"
+
+1645108804 c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\cancion.h
+	"nombre.h"
+	<iostream>
+	<string>
+
+1645107090 c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\nombre.h
+	<iostream>
+	<string>
+
+1644894866 source:c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\main.cpp
+	"Menu.h"
+	<iostream>
+
+1645105700 c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+
+1645109011 c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\listexception.h
+	<exception>
+	<string>
+
+1645107563 source:c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\menu.cpp
+	"Menu.h"
+
+1645108033 source:c:\users\efrai\onedrive\documentos\estructura\a5 - busqueda\busqueda\nombre.cpp
+	"nombre.h"
+
+1644894866 source:f:\estructura\a5 - busqueda\busqueda\main.cpp
+	"Menu.h"
+	<iostream>
+
+1645341478 f:\estructura\a5 - busqueda\busqueda\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1645408656 f:\estructura\a5 - busqueda\busqueda\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 f:\estructura\a5 - busqueda\busqueda\listexception.h
+	<exception>
+	<string>
+
+1645397230 f:\estructura\a5 - busqueda\busqueda\cancion.h
+	"nombre.h"
+	<iostream>
+	<string>
+
+1645397230 f:\estructura\a5 - busqueda\busqueda\nombre.h
+	<iostream>
+	<string>
+
+1645408616 source:f:\estructura\a5 - busqueda\busqueda\nombre.cpp
+	"nombre.h"
+
+1645408890 source:f:\estructura\a5 - busqueda\busqueda\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645408784 source:f:\estructura\a5 - busqueda\busqueda\menu.cpp
+	"Menu.h"
+

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1646619891 source:e:\documentos pc\udg materias\estructura\a7 - recursivos\recursivos\main.cpp
+	"Menu.h"
+	"Integer.h"
+	<iostream>
+
+1646619891 e:\documentos pc\udg materias\estructura\a7 - recursivos\recursivos\menu.h
+	"List.h"
+	"Integer.h"
+	<iostream>
+	<random>
+	<chrono>
+	<conio.h>
+	<functional>
+
+1646620638 e:\documentos pc\udg materias\estructura\a7 - recursivos\recursivos\list.h
+	<iostream>
+	<string>
+	"ListException.h"
+
+1644196044 e:\documentos pc\udg materias\estructura\a7 - recursivos\recursivos\listexception.h
+	<exception>
+	<string>
+
+1646620638 source:e:\documentos pc\udg materias\estructura\a7 - recursivos\recursivos\menu.cpp
+	"Menu.h"
+
+1646620868 source:e:\documentos pc\udg materias\estructura\a7 - recursivos\recursivos\integer.cpp
+	<iostream>
+	<string>
+	"Integer.h"
+
+1646537227 e:\documentos pc\udg materias\estructura\a7 - recursivos\recursivos\integer.hpp
+	<iostream>
+	<string>
+
+1646620868 e:\documentos pc\udg materias\estructura\a7 - recursivos\recursivos\integer.h
+	<iostream>
+	<string>
+

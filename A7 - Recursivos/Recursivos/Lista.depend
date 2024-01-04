@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1644164914 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\lista.cpp
+	"Lista.h"
+
+1644161695 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\main.cpp
+	"Menu.h"
+	<iostream>
+
+1644166877 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\menu.cpp
+	"Menu.h"
+
+1644164914 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\cancion.cpp
+	"Cancion.h"
+
+1644127036 e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\cancion.h
+	"nombre.h"
+	<string>
+
+1644167866 e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\lista.h
+	"Cancion.h"
+	<string>
+	"ListException.h"
+
+1644166877 e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\menu.h
+	"Lista.h"
+	"Cancion.h"
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<cctype>
+
+1644126946 e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\nombre.h
+	<string>
+
+1644161694 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\nombre.cpp
+	"nombre.h"
+
+1644167866 e:\documentos pc\udg materias\estructura\a3 - lista\lista\lista\listexception.h
+	<exception>
+
+1644196042 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\cancion.cpp
+	"Cancion.h"
+
+1644196042 e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\cancion.h
+	"nombre.h"
+	<string>
+
+1644196042 e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\nombre.h
+	<string>
+
+1644196042 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\nombre.cpp
+	"nombre.h"
+
+1644169182 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\lista.cpp
+
+1644196042 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\main.cpp
+	"Menu.h"
+	<iostream>
+
+1644197640 e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\menu.h
+	"Lista.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+
+1644204478 e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\lista.h
+	<iostream>
+	"ListException.h"
+
+1644196042 e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\listexception.h
+	<exception>
+	<string>
+
+1644204578 source:e:\documentos pc\udg materias\estructura\a3 - lista\lista_v2\menu.cpp
+	"Menu.h"
+

@@ -1,0 +1,254 @@
+A Dios le pido 
+Jose 
+Gonzalez
+Juanes
+Vasquez
+2
+s
+
+A puro dolor 
+Marco
+Luna
+Son 
+by Four
+1
+0
+s
+
+Ahora quién 
+John 
+Sebastian
+Marc 
+Anthony
+4
+0
+s
+
+Amigo
+Bob
+Dylan
+Roberto 
+Carlos
+8
+0
+s
+
+Amor prohibido 
+Paul
+McCartney
+Selena
+Gomez
+13
+0
+s
+
+Bailando
+John
+Lennon
+Enrique 
+Iglesias 
+11
+0
+s
+
+Bésame mucho
+Chuck
+Berry
+Mark
+Antony
+10
+0
+s
+
+Burbujas de amor
+Juan 
+Luis
+Smokey 
+Robinson
+18
+0
+s
+
+Cali Pachanguero
+Mick 
+Jagger
+Keith 
+Richards
+15
+0
+s
+
+Color Esperanza 
+Diego 
+Torres
+Paul 
+Simon
+16
+0
+s
+
+Conga
+Gloria 
+Estefan
+Joni 
+Mitchell
+20
+0
+s
+
+Corazón partío
+Stevie 
+Wonder
+Alejandro 
+Sanz
+3
+0
+s
+
+Danza Kuduro
+Bob 
+Marley
+Michell
+Omar 
+5
+0
+s
+
+Despacito 
+Daddy 
+Yankee 
+Luis 
+Fonsi
+8
+0
+s
+
+El buen perdedor
+Brian 
+Wilson
+Franco 
+De Vita
+9
+0
+s
+
+El día que me quieras  
+Hank 
+Williams
+Bruce 
+Springsteen
+21
+0
+s
+
+El farsante
+Leonard 
+Cohen
+Brian 
+Holland
+25
+0
+s
+
+El perdón
+Enrique 
+Iglesias
+Nicky 
+Jam
+22
+0
+s
+
+El rey
+José 
+Jiménez
+Vicente 
+Fernández
+19
+0
+s
+
+El gran varón
+Willie 
+Colón
+Neil 
+Young
+17
+0
+s
+
+Eres tú
+Ellie 
+Greenwich 
+Jeff 
+Barry
+23
+0
+s
+
+Gasolina
+Mike 
+Stoller
+Daddy 
+Yankee
+6
+0
+s
+
+Guantanamera 
+Celia 
+Cruz
+Pete 
+Seeger
+7
+0
+s
+
+Historia de un amor
+Eddie 
+Holland
+Lamont 
+Dozier
+8
+0
+s
+
+La Bamba 
+Carlos 
+Vives
+Ritchie 
+Valens
+12
+0
+s
+
+Oye Como Va
+Tito 
+Puente
+Carlos 
+Santana
+26
+0
+s
+
+Mi gente 
+John 
+Balvin
+Willy 
+William
+14
+0
+n
+
+ Botella tras Botella
+Alex
+Luna
+Cristian
+Nodal
+28
+5
+n
+
+
+
+
