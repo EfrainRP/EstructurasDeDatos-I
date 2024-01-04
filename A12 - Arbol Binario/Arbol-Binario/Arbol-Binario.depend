@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1646624468 source:e:\documentos pc\udg materias\estructura\a12 - arbol binario\a12 - arbol binario\arbol-binario\integer.cpp
+	<iostream>
+	<string>
+	"Integer.h"
+
+1649531729 e:\documentos pc\udg materias\estructura\a12 - arbol binario\a12 - arbol binario\arbol-binario\integer.h
+	<iostream>
+	<string>
+
+1649521002 source:e:\documentos pc\udg materias\estructura\a12 - arbol binario\a12 - arbol binario\arbol-binario\main.cpp
+	"Menu.h"
+	"Integer.h"
+	<iostream>
+
+1649641978 e:\documentos pc\udg materias\estructura\a12 - arbol binario\a12 - arbol binario\arbol-binario\menu.h
+	"BTree.h"
+	"Integer.h"
+	<iostream>
+	<random>
+	<chrono>
+	<conio.h>
+	<functional>
+
+1649651751 e:\documentos pc\udg materias\estructura\a12 - arbol binario\a12 - arbol binario\arbol-binario\btree.h
+	<iostream>
+	<string>
+	<exception>
+
+1651301111 source:e:\documentos pc\udg materias\estructura\a12 - arbol binario\a12 - arbol binario\arbol-binario\menu.cpp
+	"Menu.h"
+

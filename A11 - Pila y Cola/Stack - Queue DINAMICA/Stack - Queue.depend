@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1644794264 source:e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\interface.cpp
+	"Interface.h"
+
+1644796944 e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\interface.h
+	"Stack.h"
+	"Queue.h"
+	"Expression.h"
+	<iostream>
+
+1644802067 e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\stack.h
+	<string>
+	"AnyException.h"
+
+1644603588 e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\listexception.h
+	<exception>
+	<string>
+
+1644798198 e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\queue.h
+	<string>
+	"AnyException.h"
+
+1644686411 source:e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\expresssion.cpp
+	"Expression.h"
+
+1644797343 source:e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\main.cpp
+	"Interface.h"
+
+1644797457 e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\expression.h
+	"AnyException.h"
+	"Stack.h"
+	"Queue.h"
+
+1644802067 source:e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\expression.cpp
+	"Expression.h"
+
+1644694510 e:\documentos pc\udg materias\estructura\a4 - pila\stack - queue\anyexception.h
+	<string>
+	<exception>
+

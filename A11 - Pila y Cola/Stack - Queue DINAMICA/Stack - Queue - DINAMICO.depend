@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1648941663 source:e:\documentos pc\udg materias\estructura\a11 - pila y cola\stack - queue dinamica\expression.cpp
+	"Expression.h"
+
+1648923578 e:\documentos pc\udg materias\estructura\a11 - pila y cola\stack - queue dinamica\expression.h
+	"Stack.h"
+	"Queue.h"
+
+1644694512 e:\documentos pc\udg materias\estructura\a11 - pila y cola\stack - queue dinamica\anyexception.h
+	<string>
+	<exception>
+
+1648969435 e:\documentos pc\udg materias\estructura\a11 - pila y cola\stack - queue dinamica\stack.h
+	<string>
+	<exception>
+
+1648969435 e:\documentos pc\udg materias\estructura\a11 - pila y cola\stack - queue dinamica\queue.h
+	<string>
+	<exception>
+
+1648941560 source:e:\documentos pc\udg materias\estructura\a11 - pila y cola\stack - queue dinamica\interface.cpp
+	"Interface.h"
+	<iostream>
+
+1648941476 e:\documentos pc\udg materias\estructura\a11 - pila y cola\stack - queue dinamica\interface.h
+	"Stack.h"
+	"Queue.h"
+	"Expression.h"
+
+1648929644 source:e:\documentos pc\udg materias\estructura\a11 - pila y cola\stack - queue dinamica\main.cpp
+	"Interface.h"
+
